@@ -1,6 +1,6 @@
 ## Video screen
 
-[![Watch the video]](https://www.youtube.com/watch?v=CzaQWI0Bp_I&feature=youtu.be)
+[![Watch the video](https://github.com/Chokri31/dashboard-angular-material/blob/master/dashboard1.png)](https://www.youtube.com/watch?v=CzaQWI0Bp_I&feature=youtu.be)
 
 ## Screenshot
 
