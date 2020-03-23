@@ -6,7 +6,11 @@
 
 ![img](https://github.com/Chokri31/dashboard-angular-material/blob/master/dashboard3.png) 
 
-# Dashboard
+## Description
+
+Tableau de bord d'administration en Angular 8 (Matériau angulaire, graphiques et flex-layout)
+
+## Dashboard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
 
