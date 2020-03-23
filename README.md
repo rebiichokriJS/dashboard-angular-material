@@ -1,6 +1,6 @@
 ## Video screen
 
-[![Alt text for your video](https://www.youtube.com/watch?v=CzaQWI0Bp_I&feature=youtu.be)
+![Alt text for your video](https://www.youtube.com/watch?v=CzaQWI0Bp_I&feature=youtu.be)
 
 ## Screenshot
 
